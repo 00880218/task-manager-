@@ -1,0 +1,7 @@
+{
+  "name": "TaskFlow Smart",
+  "description": "A premium task management dashboard for teams with smart urgency sorting, real-time updates, and automated reminders.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
